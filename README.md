@@ -1,9 +1,8 @@
 # Uber (Road Geometry, Turn restrictions, Directionality & Lane connectivity Improvements)
-Uber is planning an organized editing activity in OpenStreetMap to improve the completeness and quality of road geometry,Turn restrictions, Directionality & Lane connectivity in selected cities/ Countries. This work is intended to support better routing and navigation for drivers and riders in the Uber app.
+Uber is performing an organized editing activity in OpenStreetMap to improve the completeness and quality of road geometry,Turn restrictions, Directionality & Lane connectivity in selected cities/ Countries. This work is intended to support better routing and navigation for drivers and riders in the Uber app.
 
 The activity is expected to focus on identifying missing & incorrect data and improving overall map quality where the available sources support a confident edit.
 
-This activity is currently in the planning stage and has not yet started.
 
 Key areas of focus include:
 
