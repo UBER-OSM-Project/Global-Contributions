@@ -9,7 +9,7 @@ Key areas of focus include:
  1. Updating road networks: improving geometry, road classes, names, turn restrictions, and directionality.
  2. Adding detailed lane information: including turn lanes and lane connectivity.
  3. Enhancing transportation infrastructure: mapping signposts, shields, and key transit features.
- 4. To ensure the accuracy of edits, sources such as recent aerial imagery, street-level photography, and other locally recommended community references are reviewed. Only edits that are clearly supported by these sources are uploaded to OpenStreetMap (OSM)
+ 4. To ensure the accuracy of edits, sources such as recent aerial imagery, street-level photography, and other locally recommended community references are reviewed.
 
 Scope:
 
@@ -46,4 +46,4 @@ Scope:
 31.France, EMEA\
 32.India, APAC\
 33.Sri Lanka, APAC\
-34.Bangladesh, APAC\
+34.Bangladesh, APAC
