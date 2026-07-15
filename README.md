@@ -13,8 +13,8 @@ Key areas of focus include:
 
 Scope:
 
-**Argentina,LatAm**
-**El Salvador,LatAm**
+**Argentina,LatAm
+**El Salvador,LatAm
 Colombia,LatAm
 Egypt,EMEA
 United Arab Emirates,EMEA
