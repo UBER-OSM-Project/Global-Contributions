@@ -13,37 +13,37 @@ Key areas of focus include:
 
 Scope:
 
-Argentina,LatAm\
-El Salvador,LatAm\
-Colombia,LatAm\
-Egypt,EMEA\
-United Arab Emirates,EMEA
-Guatemala,LatAm
-Uruguay,LatAm
-Qatar,EMEA
-Jordan,EMEA
-Peru,LatAm
-Canada,US & Canada
-Costa Rica,LatAm
-Estonia,EMEA
-Lithuania,EMEA
-Kuwait,EMEA
-Sweden,EMEA
-Mexico,LatAm
-Ukraine,EMEA
-Barbados,LatAm
-Brazil,LatAm
-Lebanon,EMEA
-Kenya,EMEA
-Ghana,EMEA
-Uganda,EMEA
-Nigeria,EMEA
-Dominican Republic,LatAm
-Panama,LatAm
-Bahrain,EMEA
-Tanzania,EMEA
-New York city, US & Canada
-France, EMEA
-India, APAC
-Sri Lanka, APAC
-Bangladesh, APAC
+1.Argentina,LatAm\
+2.El Salvador,LatAm\
+3.Colombia,LatAm\
+4.Egypt,EMEA\
+5.United Arab Emirates,EMEA\
+6.Guatemala,LatAm\
+7.Uruguay,LatAm\
+8.Qatar,EMEA\
+9.Jordan,EMEA\
+10.Peru,LatAm\
+11.Canada,US & Canada\
+12.Costa Rica,LatAm\
+13.Estonia,EMEA\
+14.Lithuania,EMEA\
+15.Kuwait,EMEA\
+16.Sweden,EMEA\
+17.Mexico,LatAm\
+18.Ukraine,EMEA\
+19.Barbados,LatAm\
+20.Brazil,LatAm\
+21.Lebanon,EMEA\
+22.Kenya,EMEA\
+23.Ghana,EMEA\
+24.Uganda,EMEA\
+25.Nigeria,EMEA\
+26.Dominican Republic,LatAm\
+27.Panama,LatAm\
+28.Bahrain,EMEA\
+29.Tanzania,EMEA\
+30.New York city, US & Canada\
+31.France, EMEA\
+32.India, APAC\
+33.Sri Lanka, APAC\
+34.Bangladesh, APAC\
